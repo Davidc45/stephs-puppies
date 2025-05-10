@@ -1,4 +1,4 @@
 # Steph's Puppies
 
-**Project Link:** [Live Website](stephs-puppies.vercel.app/)
+**Project Link:** [Live Website](https://stephs-puppies.vercel.app/)
 
